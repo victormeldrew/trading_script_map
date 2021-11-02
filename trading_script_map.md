@@ -1,5 +1,5 @@
 **List of links to directories containing the latest versions of trading scripts
-for various RW strategies**
+for RW strategies**
 
 -   **SPY/TLT seasonality:**
     <https://github.com/RWLab/macro-pod/tree/equity-bond-seasonality-trading-script/research/equity_bond_seasonality_trading_script>
